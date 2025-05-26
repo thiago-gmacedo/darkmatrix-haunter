@@ -23,7 +23,7 @@ Desenvolvido para rodar no servidor pessoal **DarkCore**, mas qualquer servidor 
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/seuusuario/darkmatrix-haunter.git
+git clone https://github.com/thiago-gmacedo/darkmatrix-haunter
 cd darkmatrix-haunter
 
 2️⃣ Verifique se o Python está instalado
